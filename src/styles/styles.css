@@ -139,9 +139,31 @@
   }
 }
 
-/* Content */
+/* About */
 
 .info {
   color: darkmagenta;
   font-family: 'Courier New', Courier, monospace;
+}
+
+/* Experience */
+
+.card {
+  margin: 2em;
+  background-color: #00ffff;
+  border-radius: 15px;
+  box-shadow: 6px 6px #d4d3d3;
+}
+
+.expand {
+  transform: rotate(0deg);
+  margin-left: auto;
+}
+.expandOpen {
+  transform: rotate(180deg);
+}
+
+.details {
+  text-align: end;
+  margin-right: 1em;
 }
