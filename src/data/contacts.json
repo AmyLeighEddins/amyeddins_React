@@ -1,0 +1,37 @@
+[
+  {
+    "link": "mailto:amyleigheddins@gmail.com", 
+    "title": "Peep that Email", 
+    "icon": "envelope outline"
+  },
+  {
+    "link": "https://www.linkedin.com/in/amy-eddins", 
+    "title": "Peep that LinkedIn", 
+    "icon": "linkedin"
+  },
+  {
+    "link": "https://www.github.com/amyleigheddins", 
+    "title": "Peep that GitHub", 
+    "icon": "github"
+  },
+  {
+    "link": "https://www.last.fm/user/yourblackswan", 
+    "title": "Peep that Last.fm", 
+    "icon": "lastfm"
+  },
+  {
+    "link": "https://www.instagram.com/amyleigheddins", 
+    "title": "Peep that Instagram", 
+    "icon": "instagram"
+  },
+  {
+    "link": "https://open.spotify.com/user/yourblackswan?si=n3koAqQKRseWm6ZM5LY5KA", 
+    "title": "Peep that Spotify", 
+    "icon": "spotify"
+  },
+  {
+    "link": "https://steamcommunity.com/id/MuntCuncher/", 
+    "title": "Peep that Steam", 
+    "icon": "steam"
+  }
+]
