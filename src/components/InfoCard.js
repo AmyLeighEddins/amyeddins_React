@@ -11,15 +11,7 @@ import IconButton from '@material-ui/core/IconButton';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import '../styles/styles.css';
 
-const JobCard = ({
-  image,
-  name,
-  dates,
-  description,
-  location,
-  position,
-  title,
-}) => {
+const InfoCard = ({ image, name, dates, description, details }) => {
   const [expanded, setExpanded] = React.useState(false);
 
   const handleExpandClick = () => {
@@ -38,7 +30,7 @@ const JobCard = ({
         />
         <CardContent>
           <Typography gutterBottom variant="body1" component="h2">
-            {location} - {title} - {position}
+            {details}
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -61,4 +53,4 @@ const JobCard = ({
   );
 };
 
-export default JobCard;
+export default InfoCard;

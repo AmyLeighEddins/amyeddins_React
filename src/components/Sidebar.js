@@ -7,7 +7,6 @@ import ListItemText from '@material-ui/core/ListItemText';
 
 import Contact from './Contact';
 import contacts from '../data/contacts.json';
-import selfie from '../data/images/selfie.jpg';
 import '../styles/styles.css';
 
 const showIcons = (contacts) => {
@@ -30,7 +29,7 @@ const showLinks = (pages) => {
       class="list"
       key={index}
       component={Link}
-      to={`/${page === 'About' ? '' : 'experience'}`}
+      to={`/${page === 'about' ? '' : page}`}
     >
       <ListItemText class="rainbow list-item" primary={page}></ListItemText>
     </ListItem>
@@ -46,7 +45,7 @@ const Sidebar = ({ drawerState, setDrawerState }) => {
     >
       <img
         className="ui small circular image selfie"
-        src={selfie}
+        src={`${process.env.PUBLIC_URL}/images/selfie.jpg`}
         alt="selfie"
       ></img>
 
@@ -56,7 +55,9 @@ const Sidebar = ({ drawerState, setDrawerState }) => {
 
       <hr className="divider" />
 
-      <List class="links-container">{showLinks(['About', 'Experience'])}</List>
+      <List class="links-container">
+        {showLinks(['about', 'experience', 'education'])}
+      </List>
     </Drawer>
   );
 };

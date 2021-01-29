@@ -1,3 +1,4 @@
+import React from 'react';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Icon from '@material-ui/core/Icon';
@@ -10,7 +11,7 @@ const AppBarTop = ({ drawerState, setDrawerState }) => {
     <AppBar position="fixed" class="appBar">
       <Toolbar>
         <Icon
-          class="icon"
+          className="icon"
           color="inherit"
           aria-label="open drawer"
           onClick={() => setDrawerState(!drawerState)}
