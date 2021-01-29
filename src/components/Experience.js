@@ -3,7 +3,7 @@ import InfoCard from './InfoCard';
 import jobs from '../data/jobs.json';
 import '../styles/styles.css';
 
-const Experience = () => {
+const showExperience = () => {
   return jobs.map((job, index) => {
     return (
       <InfoCard
@@ -17,6 +17,10 @@ const Experience = () => {
       />
     );
   });
+};
+
+const Experience = () => {
+  return <div class="grid-items">{showExperience()}</div>;
 };
 
 export default Experience;

@@ -6,7 +6,7 @@
     "degree": "Software Engineering",
     "location": "Auburn, AL",
     "imageUrl": "auburn.jpg",
-    "description": ""
+    "description": "While getting my Software Engineering degree at Auburn, I completed all three rotations of the Co-op program with Premier System Integrators and then did an internship with Lockheed Martin. I was also a research assistant for a semester."
   },
   {
     "id": 1,
@@ -15,6 +15,6 @@
     "degree": "NA",
     "location": "Montgomery, AL",
     "imageUrl": "aum.jpg",
-    "description": ""
+    "description": "I spent my first two years out of high school at AUM where I completed all my non-engineering classes in preparation to transfer to Auburn."
   }
 ]

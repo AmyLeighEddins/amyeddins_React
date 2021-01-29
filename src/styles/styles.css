@@ -139,6 +139,28 @@
   }
 }
 
+/* Cards */
+
+.grid-items {
+  display: grid;
+  padding: 4%;
+  grid-template-columns: 100%;
+  grid-column-gap: 0;
+  grid-row-gap: 20px;
+}
+
+@media only screen and (min-width: 700px) {
+  .grid-items {
+    grid-template-columns: 50% 50%;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .grid-items {
+    grid-template-columns: 33% 33% 33%;
+  }
+}
+
 /* About */
 
 .info {
