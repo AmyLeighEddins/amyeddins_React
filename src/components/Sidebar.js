@@ -29,11 +29,19 @@ const showLinks = (pages) => {
       class="list"
       key={index}
       component={Link}
-      to={`/${page === 'about' ? '' : page}`}
+      to={`/${getPage(page)}`}
     >
       <ListItemText class="rainbow list-item" primary={page}></ListItemText>
     </ListItem>
   ));
+};
+
+const getPage = (page) => {
+  if (page === 'about') {
+    return '';
+  } else if (page === 'arts & crafts') {
+    return 'artscrafts';
+  } else return page;
 };
 
 const Sidebar = ({ drawerState, setDrawerState }) => {

@@ -147,6 +147,7 @@
   grid-template-columns: 100%;
   grid-column-gap: 0;
   grid-row-gap: 20px;
+  align-items: start;
 }
 
 @media only screen and (min-width: 700px) {
@@ -168,7 +169,7 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
-/* Experience */
+/* Experience and Education */
 
 .card {
   margin: 2em;
@@ -185,6 +186,7 @@
   transform: rotate(0deg);
   margin-left: auto;
 }
+
 .expandOpen {
   transform: rotate(180deg);
 }
@@ -192,4 +194,10 @@
 .details {
   text-align: end;
   margin-right: 1em;
+}
+
+/* Arts and Crafts */
+
+.paper {
+  margin: 2em;
 }
