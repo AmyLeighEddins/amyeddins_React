@@ -11,23 +11,19 @@ import IconButton from '@material-ui/core/IconButton';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import '../styles/styles.css';
 
-import auburn from '../data/images/auburn.jpg';
-import lockheed from '../data/images/lockheed.jpg';
-import commandalkon from '../data/images/commandalkon.jpg';
-import premier from '../data/images/premier.jpg';
-import bbva from '../data/images/bbva.png';
-
-const JobCard = ({ image, name, dates, description, location, position }) => {
+const JobCard = ({
+  image,
+  name,
+  dates,
+  description,
+  location,
+  position,
+  title,
+}) => {
   const [expanded, setExpanded] = React.useState(false);
 
   const handleExpandClick = () => {
     setExpanded(!expanded);
-  };
-
-  const showDetails = () => {
-    return description.map((detail) => {
-      return <Typography paragraph>{detail}</Typography>;
-    });
   };
 
   return (
@@ -35,13 +31,14 @@ const JobCard = ({ image, name, dates, description, location, position }) => {
       <CardHeader title={name} subheader={dates} />
       <CardActionArea>
         <CardMedia
-          className=""
-          image={require(`../data/images/${image}`)}
-          title="Contemplative Reptile"
+          component="img"
+          src={`${process.env.PUBLIC_URL}/images/${image}`}
+          title={image}
+          alt={image}
         />
         <CardContent>
           <Typography gutterBottom variant="body1" component="h2">
-            {location} - {position}
+            {location} - {title} - {position}
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -56,7 +53,9 @@ const JobCard = ({ image, name, dates, description, location, position }) => {
         </IconButton>
       </CardActions>
       <Collapse in={expanded} timeout="auto" unmountOnExit>
-        <CardContent>{showDetails()}</CardContent>
+        <CardContent>
+          <Typography paragraph>{description}</Typography>
+        </CardContent>
       </Collapse>
     </Card>
   );

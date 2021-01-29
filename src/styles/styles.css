@@ -155,6 +155,10 @@
   box-shadow: 6px 6px #d4d3d3;
 }
 
+.img {
+  height: 10em;
+}
+
 .expand {
   transform: rotate(0deg);
   margin-left: auto;

@@ -4,7 +4,7 @@ import jobs from '../data/jobs.json';
 import '../styles/styles.css';
 
 const Experience = () => {
-  return jobs.map((job) => {
+  return jobs.map((job, index) => {
     return (
       <JobCard
         image={job.imageUrl}
@@ -13,6 +13,8 @@ const Experience = () => {
         location={job.location}
         description={job.description}
         position={job.position}
+        title={job.title}
+        key={index}
       />
     );
   });
