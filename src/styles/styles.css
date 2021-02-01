@@ -40,7 +40,7 @@
   margin-right: auto;
 }
 
-.divider {
+.divider-about {
   color: #aa55ff;
   background-color: #aa55ff;
   margin: 2em 2em;
@@ -198,6 +198,6 @@
 
 /* Arts and Crafts */
 
-.paper {
-  margin: 2em;
+.filter-button {
+  margin: 1em !important;
 }
