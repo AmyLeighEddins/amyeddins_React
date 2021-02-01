@@ -22,13 +22,16 @@ const showIcons = (contacts) => {
   });
 };
 
-const showLinks = (pages) => {
+const showLinks = (pages, setDrawerState) => {
   return pages.map((page, index) => (
     <ListItem
       button
       class="list"
       key={index}
       component={Link}
+      onClick={() => {
+        setDrawerState(false);
+      }}
       to={`/${getPage(page)}`}
     >
       <ListItemText class="rainbow list-item" primary={page}></ListItemText>
@@ -64,7 +67,10 @@ const Sidebar = ({ drawerState, setDrawerState }) => {
       <hr className="divider" />
 
       <List class="links-container">
-        {showLinks(['about', 'experience', 'education', 'arts & crafts'])}
+        {showLinks(
+          ['about', 'experience', 'education', 'arts & crafts'],
+          setDrawerState
+        )}
       </List>
     </Drawer>
   );
