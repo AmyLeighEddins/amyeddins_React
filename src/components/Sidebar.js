@@ -64,7 +64,7 @@ const Sidebar = ({ drawerState, setDrawerState }) => {
       <hr className="divider" />
 
       <List class="links-container">
-        {showLinks(['about', 'experience', 'education'])}
+        {showLinks(['about', 'experience', 'education', 'arts & crafts'])}
       </List>
     </Drawer>
   );
