@@ -230,17 +230,8 @@
     "description": "3D perler bead art of a Zelda chest. 2017",
     "date": "April 12, 2017",
     "type": "perler",
-    "width": 3,
-    "height": 4
-  },
-  {
-    "title": "Zelda chest",
-    "src": "./images/art/chest2.jpg",
-    "description": "3D perler bead art of a Zelda chest. 2017",
-    "date": "April 12, 2017",
-    "type": "perler",
-    "width": 3,
-    "height": 4
+    "width": 4,
+    "height": 3
   },
   {
     "title": "Ori & the Blind Forest",
