@@ -13,7 +13,7 @@ const showIcons = (contacts) => {
   return contacts.map((contact, index) => {
     return (
       <Contact
-        href={contact.href}
+        href={contact.link}
         title={contact.title}
         icon={contact.icon}
         key={index}
