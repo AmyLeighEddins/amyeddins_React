@@ -306,6 +306,24 @@
     "height": 6
   },
   {
+    "title": "Stone Cold",
+    "src": "./images/art/stonecold.jpg",
+    "description": "Perler bead art of Stone Cold Steve Austin. 2014",
+    "date": "2014",
+    "type": "perler",
+    "width": 3,
+    "height": 4
+  },
+  {
+    "title": "Doomguy",
+    "src": "./images/art/doom.jpg",
+    "description": "Perler bead art of Doomguy/Doom Slayer from Doom. 2014",
+    "date": "2014",
+    "type": "perler",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "IT Crowd",
     "src": "./images/art/itcrowd.jpg",
     "description": "Perler bead art of Moss and Roy from IT Crowd. 2014",
@@ -338,6 +356,15 @@
     "description": "Clock me and my grandpa made out of an old motherboard. 2012",
     "date": "2012",
     "type": "wood",
+    "width": 3,
+    "height": 4
+  },
+  {
+    "title": "Radiohead bag",
+    "src": "./images/art/radiohead.jpg",
+    "description": "Drew some Radiohead album (Com Lag) art on a bag. 2011",
+    "date": "2011",
+    "type": "drawing",
     "width": 3,
     "height": 4
   }
