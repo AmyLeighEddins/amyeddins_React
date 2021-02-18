@@ -1,5 +1,41 @@
 [
   {
+    "title": "Plague Doctor",
+    "src": "./images/art/doctor.jpg",
+    "description": "Embroidery of a Plague Doctor I made for a friend's birthday. 2021",
+    "date": "2021",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 3.2
+  },
+  {
+    "title": "Sweetheart and Captain Spaceboy",
+    "src": "./images/art/omori.jpg",
+    "description": "Perler bead art of Sweetheart and Captain Spaceboy form the game Omori. 2021",
+    "date": "2021",
+    "type": "perler",
+    "width": 4,
+    "height": 3
+  },
+  {
+    "title": "Banjo-Kazooie",
+    "src": "./images/art/banjokazooie.jpg",
+    "description": "Perler bead art of Banjo-Kazooie. 2021",
+    "date": "2021",
+    "type": "perler",
+    "width": 3,
+    "height": 4
+  },
+  {
+    "title": "Gris",
+    "src": "./images/art/gris.jpg",
+    "description": "Embroidery of Gris and Forest Friend from the game Gris. 2021",
+    "date": "2021",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "Angler Fish-girl",
     "src": "./images/art/fish-girl.jpg",
     "description": "Embroidery of a girl with an angler fish mask. 2020",
