@@ -1,5 +1,14 @@
 [
   {
+    "title": "Moebius's Starwatcher",
+    "src": "./images/art/starwatcher.jpeg",
+    "description": "Embroidery of a piece by Meobius in the Starwatcher series. 2021",
+    "date": "2021",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "Plague Doctor",
     "src": "./images/art/doctor.jpg",
     "description": "Embroidery of a Plague Doctor I made for a friend's birthday. 2021",
