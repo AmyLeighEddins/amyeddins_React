@@ -1,5 +1,14 @@
 [
   {
+    "title": "Rainbow",
+    "src": "./images/art/rainbow.jpeg",
+    "description": "Rainbow Embroidery using French and Bullion knots, style of @mild.moss. 2021",
+    "date": "2021",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "Moebius's Starwatcher",
     "src": "./images/art/starwatcher.jpeg",
     "description": "Embroidery of a piece by Meobius in the Starwatcher series. 2021",
