@@ -1,5 +1,14 @@
 [
   {
+    "title": "Moebius's 40 Days in the Desert",
+    "src": "./images/art/40daysindesert.jpg",
+    "description": "Embroidery of a piece by Meobius in the book 40 Days in the Desert. 2021",
+    "date": "2021",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "Rainbow",
     "src": "./images/art/rainbow.jpg",
     "description": "Rainbow Embroidery using French and Bullion knots in the style of @mild.moss. 2021",
