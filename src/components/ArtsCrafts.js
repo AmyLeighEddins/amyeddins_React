@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react';
-import { Dropdown, Input } from 'semantic-ui-react';
+import { Dropdown } from 'semantic-ui-react';
 import Gallery from 'react-photo-gallery';
 import Carousel, { Modal, ModalGateway } from 'react-images';
 
@@ -61,16 +61,16 @@ const ArtsCrafts = () => {
   return (
     <div>
       <Dropdown
-        text="Filter"
-        icon="filter"
+        text='Filter'
+        icon='filter'
         floating
         labeled
         button
-        className="filter-button icon"
+        className='filter-button icon'
       >
         <Dropdown.Menu>
           <Dropdown.Divider />
-          <Dropdown.Header icon="tags" content="Type" />
+          <Dropdown.Header icon='tags' content='Type' />
           <Dropdown.Menu scrolling>
             {types.map((option) => (
               <Dropdown.Item
