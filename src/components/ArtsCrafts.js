@@ -13,6 +13,12 @@ const ArtsCrafts = () => {
 
   const types = [
     {
+      key: 'All',
+      text: 'All',
+      value: '',
+      label: { color: 'orange', empty: true, circular: true },
+    },
+    {
       key: 'Embroidery/Sewing',
       text: 'Embroidery/Sewing',
       value: 'embroidery/sewing',
@@ -42,10 +48,17 @@ const ArtsCrafts = () => {
       value: 'wood',
       label: { color: 'yellow', empty: true, circular: true },
     },
+    {
+      key: 'Other',
+      text: 'Other',
+      value: 'other',
+      label: { color: 'green', empty: true, circular: true },
+    },
   ];
 
   const filter = (type) => {
-    setImages(artscrafts.filter((image) => image.type === type));
+    if (!type) setImages(artscrafts);
+    else setImages(artscrafts.filter((image) => image.type === type));
   };
 
   const openLightbox = useCallback((event, { photo, index }) => {

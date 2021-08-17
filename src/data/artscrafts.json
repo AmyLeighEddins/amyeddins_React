@@ -1,5 +1,32 @@
 [
   {
+    "title": "Mushroom",
+    "src": "./images/art/mushroom.jpeg",
+    "description": "Needle felted mushroom done at a class by @colourhousecreations. 2021",
+    "date": "2021",
+    "type": "other",
+    "width": 3,
+    "height": 4
+  },
+  {
+    "title": "Eye",
+    "src": "./images/art/eye.jpeg",
+    "description": "Embroidery of a design by @b_textilestudio. 2021",
+    "date": "2021",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 4
+  },
+  {
+    "title": "Fox",
+    "src": "./images/art/fox.jpeg",
+    "description": "Embroidery of a fox from a pattern by @helioblue.design. 2021",
+    "date": "2021",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "Moebius's 40 Days in the Desert",
     "src": "./images/art/40daysindesert.jpg",
     "description": "Embroidery of a piece by Meobius in the book 40 Days in the Desert. 2021",
