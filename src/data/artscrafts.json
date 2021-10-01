@@ -1,5 +1,14 @@
 [
   {
+    "title": "Silvio",
+    "src": "./images/art/silvio.jpeg",
+    "description": "Painting of Silvio from Sopranos. 2021",
+    "date": "2021",
+    "type": "painting",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "Mushroom",
     "src": "./images/art/mushroom.jpeg",
     "description": "Needle felted mushroom done at a class by @colourhousecreations. 2021",

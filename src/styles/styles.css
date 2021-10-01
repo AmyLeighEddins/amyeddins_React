@@ -202,3 +202,7 @@
 .filter-button {
   margin: 1em !important;
 }
+
+.react-images__view-image {
+  height: 90vh !important;
+}

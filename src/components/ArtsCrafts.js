@@ -103,7 +103,6 @@ const ArtsCrafts = () => {
               currentIndex={currentImage}
               views={images.map((image) => ({
                 ...image,
-                srcset: image.srcSet,
                 caption: image.description,
               }))}
             />
