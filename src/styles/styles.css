@@ -204,5 +204,5 @@
 }
 
 .react-images__view-image {
-  height: 90vh !important;
+  max-height: 90vh !important;
 }
