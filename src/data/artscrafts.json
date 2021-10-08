@@ -1,7 +1,7 @@
 [
   {
     "title": "Silvio",
-    "src": "./images/art/silvio.jpeg",
+    "src": "./images/art/silvio.webp",
     "description": "Painting of Silvio from Sopranos. 2021",
     "date": "2021",
     "type": "painting",
@@ -10,7 +10,7 @@
   },
   {
     "title": "Mushroom",
-    "src": "./images/art/mushroom.jpeg",
+    "src": "./images/art/mushroom.webp",
     "description": "Needle felted mushroom done at a class by @colourhousecreations. 2021",
     "date": "2021",
     "type": "other",
@@ -19,7 +19,7 @@
   },
   {
     "title": "Eye",
-    "src": "./images/art/eye.jpeg",
+    "src": "./images/art/eye.webp",
     "description": "Embroidery of a design by @b_textilestudio. 2021",
     "date": "2021",
     "type": "embroidery/sewing",
@@ -28,7 +28,7 @@
   },
   {
     "title": "Fox",
-    "src": "./images/art/fox.jpeg",
+    "src": "./images/art/fox.webp",
     "description": "Embroidery of a fox from a pattern by @helioblue.design. 2021",
     "date": "2021",
     "type": "embroidery/sewing",
@@ -37,7 +37,7 @@
   },
   {
     "title": "Moebius's 40 Days in the Desert",
-    "src": "./images/art/40daysindesert.jpg",
+    "src": "./images/art/40daysindesert.webp",
     "description": "Embroidery of a piece by Meobius in the book 40 Days in the Desert. 2021",
     "date": "2021",
     "type": "embroidery/sewing",
@@ -46,7 +46,7 @@
   },
   {
     "title": "Rainbow",
-    "src": "./images/art/rainbow.jpg",
+    "src": "./images/art/rainbow.webp",
     "description": "Rainbow Embroidery using French and Bullion knots in the style of @mild.moss. 2021",
     "date": "2021",
     "type": "embroidery/sewing",
@@ -55,7 +55,7 @@
   },
   {
     "title": "Moebius's Starwatcher",
-    "src": "./images/art/starwatcher.jpeg",
+    "src": "./images/art/starwatcher.webp",
     "description": "Embroidery of a piece by Meobius in the Starwatcher series. 2021",
     "date": "2021",
     "type": "embroidery/sewing",
@@ -64,7 +64,7 @@
   },
   {
     "title": "Plague Doctor",
-    "src": "./images/art/doctor.jpg",
+    "src": "./images/art/doctor.webp",
     "description": "Embroidery of a Plague Doctor I made for a friend's birthday. 2021",
     "date": "2021",
     "type": "embroidery/sewing",
@@ -73,7 +73,7 @@
   },
   {
     "title": "Sweetheart and Captain Spaceboy",
-    "src": "./images/art/omori.jpg",
+    "src": "./images/art/omori.webp",
     "description": "Perler bead art of Sweetheart and Captain Spaceboy form the game Omori. 2021",
     "date": "2021",
     "type": "perler",
@@ -82,7 +82,7 @@
   },
   {
     "title": "Banjo-Kazooie",
-    "src": "./images/art/banjokazooie.jpg",
+    "src": "./images/art/banjokazooie.webp",
     "description": "Perler bead art of Banjo-Kazooie. 2021",
     "date": "2021",
     "type": "perler",
@@ -91,7 +91,7 @@
   },
   {
     "title": "Gris",
-    "src": "./images/art/gris.jpg",
+    "src": "./images/art/gris.webp",
     "description": "Embroidery of Gris and Forest Friend from the game Gris. 2021",
     "date": "2021",
     "type": "embroidery/sewing",
@@ -100,7 +100,7 @@
   },
   {
     "title": "Angler Fish-girl",
-    "src": "./images/art/fish-girl.jpg",
+    "src": "./images/art/fish-girl.webp",
     "description": "Embroidery of a girl with an angler fish mask. Pattern from @oddanastitch. 2020",
     "date": "2020",
     "type": "embroidery/sewing",
@@ -109,7 +109,7 @@
   },
   {
     "title": "Pyramid Head",
-    "src": "./images/art/silenthill.jpg",
+    "src": "./images/art/silenthill.webp",
     "description": "Perler bead art of Pyramid Head from the Silent Hill games. 2020",
     "date": "2020",
     "type": "perler",
@@ -118,7 +118,7 @@
   },
   {
     "title": "Master Chief",
-    "src": "./images/art/halo.jpg",
+    "src": "./images/art/halo.webp",
     "description": "Perler bead art of Master Chief from the Halo games. 2020",
     "date": "2020",
     "type": "perler",
@@ -127,7 +127,7 @@
   },
   {
     "title": "Abstract",
-    "src": "./images/art/abstract-for-me.png",
+    "src": "./images/art/abstract-for-me.webp",
     "description": "Abstract painting I made for experimenting. 2020",
     "date": "2020",
     "type": "painting",
@@ -136,7 +136,7 @@
   },
   {
     "title": "Abstract",
-    "src": "./images/art/abstract-for-albert.png",
+    "src": "./images/art/abstract-for-albert.webp",
     "description": "Abstract painting I made for a friend. 2020",
     "date": "2020",
     "type": "painting",
@@ -145,7 +145,7 @@
   },
   {
     "title": "Abstract",
-    "src": "./images/art/abstract-for-mandy.png",
+    "src": "./images/art/abstract-for-mandy.webp",
     "description": "Abstract painting I made for a friend. 2020",
     "date": "2020",
     "type": "painting",
@@ -154,7 +154,7 @@
   },
   {
     "title": "Abstract",
-    "src": "./images/art/abstract-for-janice.png",
+    "src": "./images/art/abstract-for-janice.webp",
     "description": "Abstract painting I made for my aunt. 2020",
     "date": "2020",
     "type": "painting",
@@ -163,7 +163,7 @@
   },
   {
     "title": "Abstract",
-    "src": "./images/art/abstract-for-gma.png",
+    "src": "./images/art/abstract-for-gma.webp",
     "description": "Abstract painting I made for my grandma. 2020",
     "date": "2020",
     "type": "painting",
@@ -172,7 +172,7 @@
   },
   {
     "title": "Abstract",
-    "src": "./images/art/abstract-for-mom.png",
+    "src": "./images/art/abstract-for-mom.webp",
     "description": "Abstract painting I made for my mom. 2020",
     "date": "2020",
     "type": "painting",
@@ -181,7 +181,7 @@
   },
   {
     "title": "Sea Monster",
-    "src": "./images/art/monster.png",
+    "src": "./images/art/monster.webp",
     "description": "Perler art of an abstract sea monster. 2020",
     "date": "2020",
     "type": "perler",
@@ -190,7 +190,7 @@
   },
   {
     "title": "Oneshot",
-    "src": "./images/art/oneshot.jpg",
+    "src": "./images/art/oneshot.webp",
     "description": "Perler of the main character of the game Oneshot. 2020",
     "date": "2020",
     "type": "perler",
@@ -199,7 +199,7 @@
   },
   {
     "title": "Coopers",
-    "src": "./images/art/coopers.jpg",
+    "src": "./images/art/coopers.webp",
     "description": "Embroidery of art of the main character from Twin Peaks. 2020",
     "date": "2020",
     "type": "embroidery/sewing",
@@ -208,7 +208,7 @@
   },
   {
     "title": "Outrun backpack",
-    "src": "./images/art/backpack.jpg",
+    "src": "./images/art/backpack.webp",
     "description": "Backpack I sewed outrun band patches on. 2020",
     "date": "2020",
     "type": "embroidery/sewing",
@@ -217,7 +217,7 @@
   },
   {
     "title": "Flower for Mom",
-    "src": "./images/art/flower.jpg",
+    "src": "./images/art/flower.webp",
     "description": "Flower I drew for my mom for her birthday. 2020",
     "date": "2020",
     "type": "drawing",
@@ -226,7 +226,7 @@
   },
   {
     "title": "Dresser",
-    "src": "./images/art/dresser.jpg",
+    "src": "./images/art/dresser.webp",
     "description": "Redid this dresser with mineral paint. 2020",
     "date": "2020",
     "type": "painting",
@@ -235,7 +235,7 @@
   },
   {
     "title": "Nightstand",
-    "src": "./images/art/nightstand.jpg",
+    "src": "./images/art/nightstand.webp",
     "description": "Redid this nightstand with mineral paint. 2020",
     "date": "2020",
     "type": "painting",
@@ -244,7 +244,7 @@
   },
   {
     "title": "Patch Jacket",
-    "src": "./images/art/jacket.jpg",
+    "src": "./images/art/jacket.webp",
     "description": "Jacket I sewed patches on. 2020",
     "date": "2020",
     "type": "embroidery/sewing",
@@ -253,7 +253,7 @@
   },
   {
     "title": "Stardew Valley",
-    "src": "./images/art/stardew-valley.jpg",
+    "src": "./images/art/stardew-valley.webp",
     "description": "Perler bead art of my family in Stardew Valley characters. 2020",
     "date": "2020",
     "type": "perler",
@@ -262,7 +262,7 @@
   },
   {
     "title": "Sabin",
-    "src": "./images/art/ff.jpg",
+    "src": "./images/art/ff.webp",
     "description": "Perler art of Sabin from Final Fantasy. 2018",
     "date": "2018",
     "type": "perler",
@@ -271,7 +271,7 @@
   },
   {
     "title": "Early Cuyler",
-    "src": "./images/art/early.jpg",
+    "src": "./images/art/early.webp",
     "description": "Perler bead art of Early Cuyler from Squidbillies for my uncle for Christmas. 2017",
     "date": "2017",
     "type": "perler",
@@ -280,7 +280,7 @@
   },
   {
     "title": "Dragon Ball Z",
-    "src": "./images/art/dragonball.jpg",
+    "src": "./images/art/dragonball.webp",
     "description": "Perler bead art of Vegeta and Goku from Dragon Ball Z. 2016",
     "date": "2016",
     "type": "perler",
@@ -289,7 +289,7 @@
   },
   {
     "title": "Hyper Light Drifter",
-    "src": "./images/art/hld.jpg",
+    "src": "./images/art/hld.webp",
     "description": "Perler bead art of the main character of Hyper Light Drifter game. 2017",
     "date": "2017",
     "type": "perler",
@@ -298,7 +298,7 @@
   },
   {
     "title": "Rick and Morty",
-    "src": "./images/art/rickmorty.jpg",
+    "src": "./images/art/rickmorty.webp",
     "description": "Perler bead art of Rick and Morty. 2017",
     "date": "2017",
     "type": "perler",
@@ -307,7 +307,7 @@
   },
   {
     "title": "Earthbound",
-    "src": "./images/art/earthbound.jpg",
+    "src": "./images/art/earthbound.webp",
     "description": "Perler bead art the main characters of Earthbound. 2017",
     "date": "2017",
     "type": "perler",
@@ -316,7 +316,7 @@
   },
   {
     "title": "Nausicaa",
-    "src": "./images/art/nausicaa.jpg",
+    "src": "./images/art/nausicaa.webp",
     "description": "Perler bead art of Nausicaa of the Valley of the Wind. 2017",
     "date": "2017",
     "type": "perler",
@@ -325,7 +325,7 @@
   },
   {
     "title": "Zelda chest",
-    "src": "./images/art/chest.jpg",
+    "src": "./images/art/chest.webp",
     "description": "3D perler bead art of a Zelda chest. 2017",
     "date": "2017",
     "type": "perler",
@@ -334,7 +334,7 @@
   },
   {
     "title": "Ori & the Blind Forest",
-    "src": "./images/art/ori.jpg",
+    "src": "./images/art/ori.webp",
     "description": "Perler bead art of the main character from the game Ori and the Blind Forest. 2017",
     "date": "2017",
     "type": "perler",
@@ -343,7 +343,7 @@
   },
   {
     "title": "Side Table",
-    "src": "./images/art/table.jpg",
+    "src": "./images/art/table.webp",
     "description": "Made this side table for my record player and painted the speaker stands. 2017",
     "date": "2017",
     "type": "wood",
@@ -352,7 +352,7 @@
   },
   {
     "title": "Philip K. Dick",
-    "src": "./images/art/dick.jpg",
+    "src": "./images/art/dick.webp",
     "description": "Painting of the author Philip K. Dick. 2016",
     "date": "2016",
     "type": "painting",
@@ -361,7 +361,7 @@
   },
   {
     "title": "Angler Fish",
-    "src": "./images/art/fish.jpg",
+    "src": "./images/art/fish.webp",
     "description": "Painting of an Angler fish. 2016",
     "date": "2016",
     "type": "painting",
@@ -370,7 +370,7 @@
   },
   {
     "title": "Terry Gilliam",
-    "src": "./images/art/terry.jpg",
+    "src": "./images/art/terry.webp",
     "description": "Painting of the director Terry Gilliam. 2016",
     "date": "2016",
     "type": "painting",
@@ -379,7 +379,7 @@
   },
   {
     "title": "Eraserhead",
-    "src": "./images/art/eraserhead.jpg",
+    "src": "./images/art/eraserhead.webp",
     "description": "Painting of Henry from the movie Eraserhead. 2016",
     "date": "2016",
     "type": "painting",
@@ -388,7 +388,7 @@
   },
   {
     "title": "Community",
-    "src": "./images/art/community.jpg",
+    "src": "./images/art/community.webp",
     "description": "Perler bead art of Troy and Abed from Community. 2015",
     "date": "2015",
     "type": "perler",
@@ -397,7 +397,7 @@
   },
   {
     "title": "Pokemon",
-    "src": "./images/art/pokemon.jpg",
+    "src": "./images/art/pokemon.webp",
     "description": "Perler bead art of Charmander, Squirtle, Bulbasaur, and Pikachu from Pokemon. 2015",
     "date": "2016",
     "type": "perler",
@@ -406,7 +406,7 @@
   },
   {
     "title": "Stone Cold",
-    "src": "./images/art/stonecold.jpg",
+    "src": "./images/art/stonecold.webp",
     "description": "Perler bead art of Stone Cold Steve Austin. 2014",
     "date": "2014",
     "type": "perler",
@@ -415,7 +415,7 @@
   },
   {
     "title": "Doomguy",
-    "src": "./images/art/doom.jpg",
+    "src": "./images/art/doom.webp",
     "description": "Perler bead art of Doomguy/Doom Slayer from Doom. 2014",
     "date": "2014",
     "type": "perler",
@@ -424,7 +424,7 @@
   },
   {
     "title": "IT Crowd",
-    "src": "./images/art/itcrowd.jpg",
+    "src": "./images/art/itcrowd.webp",
     "description": "Perler bead art of Moss and Roy from IT Crowd. 2014",
     "date": "2014",
     "type": "perler",
@@ -433,7 +433,7 @@
   },
   {
     "title": "Super Meat Boy",
-    "src": "./images/art/meatboy.jpg",
+    "src": "./images/art/meatboy.webp",
     "description": "Perler bead art of the main character of the Super Meat Boy game. 2014",
     "date": "2014",
     "type": "perler",
@@ -442,7 +442,7 @@
   },
   {
     "title": "Aphex Twin",
-    "src": "./images/art/apex.jpg",
+    "src": "./images/art/apex.webp",
     "description": "Painting of an Aphex Twin album cover. 2014",
     "date": "2014",
     "type": "painting",
@@ -451,7 +451,7 @@
   },
   {
     "title": "Motherboard Clock",
-    "src": "./images/art/clock.jpg",
+    "src": "./images/art/clock.webp",
     "description": "Clock me and my grandpa made out of an old motherboard. 2012",
     "date": "2012",
     "type": "wood",
@@ -460,7 +460,7 @@
   },
   {
     "title": "Radiohead bag",
-    "src": "./images/art/radiohead.jpg",
+    "src": "./images/art/radiohead.webp",
     "description": "Drew some Radiohead album (Com Lag) art on a bag. 2011",
     "date": "2011",
     "type": "drawing",

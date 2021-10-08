@@ -56,7 +56,7 @@ const Sidebar = ({ drawerState, setDrawerState }) => {
     >
       <img
         className="ui small circular image selfie"
-        src={`${process.env.PUBLIC_URL}/images/selfie.jpg`}
+        src={`${process.env.PUBLIC_URL}/images/selfie.webp`}
         alt="selfie"
       ></img>
 
