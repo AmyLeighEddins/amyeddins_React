@@ -1,5 +1,23 @@
 [
   {
+    "title": "Anne of Green Gables",
+    "src": "./images/art/anne.webp",
+    "description": "Embroidery of Anne of Green Gables. 2021",
+    "date": "2021",
+    "type": "embroidery",
+    "width": 3,
+    "height": 4
+  },
+  {
+    "title": "Bluebird",
+    "src": "./images/art/bluebird.webp",
+    "description": "Ebroidery of a bluebird. Pattern by Trish Burr. 2021",
+    "date": "2021",
+    "type": "embroidery",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "Silvio",
     "src": "./images/art/silvio.webp",
     "description": "Painting of Silvio from Sopranos. 2021",
