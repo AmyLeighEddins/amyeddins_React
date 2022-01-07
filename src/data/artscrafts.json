@@ -1,5 +1,23 @@
 [
   {
+    "title": "Link",
+    "src": "./images/art/link.webp",
+    "description": "Perler bead art of Link from BOTW for a friend. 2021",
+    "date": "2021",
+    "type": "perler",
+    "width": 3,
+    "height": 4
+  },
+  {
+    "title": "Celeste",
+    "src": "./images/art/celeste.webp",
+    "description": "Perler bead art of Celeste from the game for a friend. 2021",
+    "date": "2021",
+    "type": "perler",
+    "width": 4,
+    "height": 3
+  },
+  {
     "title": "Anne of Green Gables",
     "src": "./images/art/anne.webp",
     "description": "Embroidery of Anne of Green Gables. 2021",
@@ -11,7 +29,7 @@
   {
     "title": "Bluebird",
     "src": "./images/art/bluebird.webp",
-    "description": "Ebroidery of a bluebird. Pattern by Trish Burr. 2021",
+    "description": "Embroidery of a bluebird. Pattern by Trish Burr. 2021",
     "date": "2021",
     "type": "embroidery",
     "width": 3,
