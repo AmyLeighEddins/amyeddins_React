@@ -1,5 +1,14 @@
 [
   {
+    "title": "Abstract",
+    "src": "./images/art/abstractperler.webp",
+    "description": "Abstract perler bead art. 2022",
+    "date": "2022",
+    "type": "perler",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "Link",
     "src": "./images/art/link.webp",
     "description": "Perler bead art of Link from BOTW for a friend. 2021",
