@@ -1,5 +1,14 @@
 [
   {
+    "title": "Moebius's 40 Days in the Desert (2)",
+    "src": "./images/art/40daysindesert2.webp",
+    "description": "Another embroidery of a piece by Moebius from the book 40 Days in the Desert. 2022",
+    "date": "2022",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "Abstract",
     "src": "./images/art/abstractperler.webp",
     "description": "Abstract perler bead art. 2022",
@@ -31,7 +40,7 @@
     "src": "./images/art/anne.webp",
     "description": "Embroidery of Anne of Green Gables. 2021",
     "date": "2021",
-    "type": "embroidery",
+    "type": "embroidery/sewing",
     "width": 3,
     "height": 4
   },
@@ -40,7 +49,7 @@
     "src": "./images/art/bluebird.webp",
     "description": "Embroidery of a bluebird. Pattern by Trish Burr. 2021",
     "date": "2021",
-    "type": "embroidery",
+    "type": "embroidery/sewing",
     "width": 3,
     "height": 4
   },
@@ -83,7 +92,7 @@
   {
     "title": "Moebius's 40 Days in the Desert",
     "src": "./images/art/40daysindesert.webp",
-    "description": "Embroidery of a piece by Meobius in the book 40 Days in the Desert. 2021",
+    "description": "Embroidery of a piece by Moebius from the book 40 Days in the Desert. 2021",
     "date": "2021",
     "type": "embroidery/sewing",
     "width": 3,
@@ -101,7 +110,7 @@
   {
     "title": "Moebius's Starwatcher",
     "src": "./images/art/starwatcher.webp",
-    "description": "Embroidery of a piece by Meobius in the Starwatcher series. 2021",
+    "description": "Embroidery of a piece by Moebius in the Starwatcher series. 2021",
     "date": "2021",
     "type": "embroidery/sewing",
     "width": 3,
