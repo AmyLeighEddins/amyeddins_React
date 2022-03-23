@@ -1,5 +1,14 @@
 [
   {
+    "title": "Twin Peaks",
+    "src": "./images/art/twinpeaks.webp",
+    "description": "Embroidery of Laura's hands from Twin Peaks. 2022",
+    "date": "2022",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 3.2
+  },
+  {
     "title": "Moebius's 40 Days in the Desert (2)",
     "src": "./images/art/40daysindesert2.webp",
     "description": "Another embroidery of a piece by Moebius from the book 40 Days in the Desert. 2022",
