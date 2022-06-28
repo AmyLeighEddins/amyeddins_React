@@ -1,5 +1,23 @@
 [
   {
+    "title": "The Hero",
+    "src": "./images/art/tunic.webp",
+    "description": "Perler bead art of the Hero from Tunic. Pattern by @wingedyeti. 2022",
+    "date": "2022",
+    "type": "perler",
+    "width": 4,
+    "height": 3
+  },
+  {
+    "title": "The Crow",
+    "src": "./images/art/crow.webp",
+    "description": "Perler bead art of the Crow from Death's Door. Pattern by @francis_ecto. 2022",
+    "date": "2022",
+    "type": "perler",
+    "width": 3,
+    "height": 4
+  },
+  {
     "title": "Twin Peaks",
     "src": "./images/art/twinpeaks.webp",
     "description": "Embroidery of Laura's hands from Twin Peaks. 2022",
