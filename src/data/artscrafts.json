@@ -1,5 +1,68 @@
 [
   {
+    "title": "Wedding Party Gifts",
+    "src": "./images/art/wedding-party-gifts.webp",
+    "description": "Embroideries I made for my Bridesmaids. Patterns by @thesmallwoods. 2023",
+    "date": "2023",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 4
+  },
+  {
+    "title": "Alcohol Ink",
+    "src": "./images/art/alcohol-ink-flowers.webp",
+    "description": "Abstract Alcohol Ink with flowers for my mom. 2022",
+    "date": "2022",
+    "type": "painting",
+    "width": 4,
+    "height": 3
+  },
+  {
+    "title": "Alcohol Ink",
+    "src": "./images/art/alcohol-ink-rainbow.webp",
+    "description": "Abstract Alcohol Ink Rainbow for a friend. 2022",
+    "date": "2022",
+    "type": "painting",
+    "width": 4,
+    "height": 3
+  },
+  {
+    "title": "Painted Bunting",
+    "src": "./images/art/rainbow-bird.webp",
+    "description": "Watercolor of a Painted Bunting for my grandmother. 2022",
+    "date": "2022",
+    "type": "drawing",
+    "width": 4,
+    "height": 3
+  },
+  {
+    "title": "Ranni the Witch",
+    "src": "./images/art/ranni.webp",
+    "description": "Perler bead art with an alcohol ink background of Ranni the Witch from Elden Ring. Pattern by @pixelgodoy. 2022",
+    "date": "2022",
+    "type": "perler",
+    "width": 3,
+    "height": 4
+  },
+  {
+    "title": "Twin Peaks",
+    "src": "./images/art/twinpeaks-canvas.webp",
+    "description": "Embroidery on a painted canvas of Laura's hands from Twin Peaks. 2022",
+    "date": "2022",
+    "type": "embroidery/sewing",
+    "width": 3,
+    "height": 4
+  },
+  {
+    "title": "Alcohol Ink",
+    "src": "./images/art/alcohol-ink-1.webp",
+    "description": "Abstract Alcohol Ink. 2022",
+    "date": "2022",
+    "type": "painting",
+    "width": 4,
+    "height": 3
+  },
+  {
     "title": "The Hero",
     "src": "./images/art/tunic.webp",
     "description": "Perler bead art of the Hero from Tunic. Pattern by @wingedyeti. 2022",
